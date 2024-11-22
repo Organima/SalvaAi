@@ -1,0 +1,29 @@
+// Início
+-Capa
+-Sumário
+-Quem somos (Breve resumo)
+ 
+// Logotipo
+-Versões do Logotipo (Aproximadamente 23 versões)
+-Redução da logo
+-Logotipo (margem de segurança)
+-Logotipo (versão monocromática)
+ 
+// Aplicações do Logo
+-Formas de Uso
+-Aplicação sobre fundos (logos)
+-Uso dos produtos
+
+// Composições nas Publicações
+-Espaçamento
+-Margem
+-Hierarquia de elementos
+-Combinação das cores
+
+// Outros
+-Família de Ícones
+-Manual de cores
+-Tipografias
+-Animação
+
+Isso é tão antigo quanto a minha- melhor não comentar sobre isso...
